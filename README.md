@@ -9,5 +9,5 @@ in `lib/`, and example unit test in `test/`.
 1. in the terminal or command prompt, navigate to the `bin/` folder using `cd bin`
 2. run the code by typing the command `dart file_name.dart`
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+--OR--
+1. you can press f5 for run debugging
